@@ -12,28 +12,28 @@
 
 ### 🎮 新作与更新
 
-- **《穿越火线：枪战王者》**：[迎来十周年，宣布游戏总注册用户已突破4.5亿](/News/2d2739be8ca90f8e0807da8e2bff6eef)。
-- **《超自然行动组》**：[12月6日宣布上架周边"撕裂空间"徽章组盲盒，产品周内排名在19-32名之间](/News/2d2739be8ca90f8e0807da8e2bff6eef)。
-- **《杖剑传说》**：[吉比特新作周内排名在37-59名之间](/News/2d2739be8ca90f8e0807da8e2bff6eef)。
+- **《穿越火线：枪战王者》**：[迎来十周年，宣布游戏总注册用户已突破4.5亿](https://quantshark.io/News/2d2739be8ca90f8e0807da8e2bff6eef)。
+- **《超自然行动组》**：[12月6日宣布上架周边"撕裂空间"徽章组盲盒，产品周内排名在19-32名之间](https://quantshark.io/News/2d2739be8ca90f8e0807da8e2bff6eef)。
+- **《杖剑传说》**：[吉比特新作周内排名在37-59名之间](https://quantshark.io/News/2d2739be8ca90f8e0807da8e2bff6eef)。
 
 ### 💼 行业与硬件
 
 **AI赋能游戏开发，网易伏羲获国家级科技奖**
 
-[网易伏羲与天津大学、中国科学技术大学等机构合作的《基于强化学习的智能决策关键技术及应用》项目，荣获中国图象图形学学会"科技进步奖一等奖"](/News/56f5788f2cfb47bb081b16bf6398336e)。[《逆水寒》便是项目落地场景之一，网易伏羲深度参与其在图形技术与人工智能领域的探索](/News/56f5788f2cfb47bb081b16bf6398336e)，以游戏AI的创新实践助力数字文娱作品突破"游戏"边界。
+[网易伏羲与天津大学、中国科学技术大学等机构合作的《基于强化学习的智能决策关键技术及应用》项目，荣获中国图象图形学学会"科技进步奖一等奖"](https://quantshark.io/News/56f5788f2cfb47bb081b16bf6398336e)。[《逆水寒》便是项目落地场景之一，网易伏羲深度参与其在图形技术与人工智能领域的探索](https://quantshark.io/News/56f5788f2cfb47bb081b16bf6398336e)，以游戏AI的创新实践助力数字文娱作品突破"游戏"边界。
 
 **游戏硬件成本压力凸显**
 
-[任天堂股价单日重挫4.7%，进入12月的八个交易日市值已蒸发约140亿美元](/News/16a643b115c97c624863f3d6bb25a2c5)。[Switch 2所用的12GB RAM模块本季度价格暴涨41%，NAND闪存成本上涨近8%](/News/16a643b115c97c624863f3d6bb25a2c5)，AI服务器对高端产能的锁定正对消费电子终端形成结构性挤压。
+[任天堂股价单日重挫4.7%，进入12月的八个交易日市值已蒸发约140亿美元](https://quantshark.io/News/16a643b115c97c624863f3d6bb25a2c5)。[Switch 2所用的12GB RAM模块本季度价格暴涨41%，NAND闪存成本上涨近8%](https://quantshark.io/News/16a643b115c97c624863f3d6bb25a2c5)，AI服务器对高端产能的锁定正对消费电子终端形成结构性挤压。
 
 **JPMorgan调整游戏股评级**
 
-[JPMorgan下调Roblox评级至Neutral，同时升级Clear Secure至Overweight，并将Roku列为2026年顶级选股](/News/5ee40c3bfac54298b402e82a6820b1dd)。
+[JPMorgan下调Roblox评级至Neutral，同时升级Clear Secure至Overweight，并将Roku列为2026年顶级选股](https://quantshark.io/News/5ee40c3bfac54298b402e82a6820b1dd)。
 
 ### ⚡️ 极速快讯
 
-- [腾讯混元2.0上线，采用MoE架构，总参数规模达4060亿](/News/5fc71d5bc4f40170d3139ebeae962540)。
-- [贪玩游戏签约200+潮玩艺术家，获加菲猫IP大中华区独家开发权](/News/5f13d4f10dec69f677d16827189a54b8)。
-- [灵犀互娱汇报关系变更，从樊路远转向阿里CFO徐宏](/News/fc49782929345e6f57e37ef70dbcca61)。
-- [B站第三季度经调整净利润同比激增233%，月活跃用户创3.76亿新高](/News/dbd9088737458f58bb40e4152e6c23b6)。
-- [2025年11月中国手游发行商收入榜，33个中国厂商入围全球TOP100](/News/2d2739be8ca90f8e0807da8e2bff6eef)。
+- [腾讯混元2.0上线，采用MoE架构，总参数规模达4060亿](https://quantshark.io/News/5fc71d5bc4f40170d3139ebeae962540)。
+- [贪玩游戏签约200+潮玩艺术家，获加菲猫IP大中华区独家开发权](https://quantshark.io/News/5f13d4f10dec69f677d16827189a54b8)。
+- [灵犀互娱汇报关系变更，从樊路远转向阿里CFO徐宏](https://quantshark.io/News/fc49782929345e6f57e37ef70dbcca61)。
+- [B站第三季度经调整净利润同比激增233%，月活跃用户创3.76亿新高](https://quantshark.io/News/dbd9088737458f58bb40e4152e6c23b6)。
+- [2025年11月中国手游发行商收入榜，33个中国厂商入围全球TOP100](https://quantshark.io/News/2d2739be8ca90f8e0807da8e2bff6eef)。

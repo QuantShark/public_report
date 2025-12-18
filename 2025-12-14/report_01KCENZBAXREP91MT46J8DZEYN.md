@@ -8,21 +8,21 @@
 
 ### Infrared Finance TGE与Berachain周期结束
 
-[随着 @InfraredFinance 的TGE，大熊 @berachain 也是正式宣告结束。同时，以矿币补贴为核心卖点的各种 L1,L2 也结束了](/News/f75c5f2f30830dc61a8b70f70c523413)。这表明Berachain生态的补贴周期已经告一段落，曾经依靠矿币激励的L1/L2项目正面临模式转变。
+[随着 @InfraredFinance 的TGE，大熊 @berachain 也是正式宣告结束。同时，以矿币补贴为核心卖点的各种 L1,L2 也结束了](https://quantshark.io/News/f75c5f2f30830dc61a8b70f70c523413)。这表明Berachain生态的补贴周期已经告一段落，曾经依靠矿币激励的L1/L2项目正面临模式转变。
 
 ### Hyperliquid生态扩展
 
-[HIP-3新增代码 $SEMIS（可能是半导体ETF相关）已被购买，价格为974.36 $HYPE或$28,329](/News/acdd92702432f09a5ddbeba1fe48d43f)。Hyperliquid生态继续扩展其衍生品交易对。
+[HIP-3新增代码 $SEMIS（可能是半导体ETF相关）已被购买，价格为974.36 $HYPE或$28,329](https://quantshark.io/News/acdd92702432f09a5ddbeba1fe48d43f)。Hyperliquid生态继续扩展其衍生品交易对。
 
 ## 社区参与热点
 
 ### 空投项目持续跟进
 
-用户积极参与多个空投项目的任务：[定投 $hype，hypurr挂了个offer。继续用variational，只有10%的人能坚持下来。edgex和lighter这个月结束了，后面配合standx、backpack继续搞，nado有两个码可自取](/News/faee3edbb65dfd6df74f44bec8bf9fc5)。这反映出资深玩家在多个项目间并行参与，通过持续的任务完成来积累空投资格。
+用户积极参与多个空投项目的任务：[定投 $hype，hypurr挂了个offer。继续用variational，只有10%的人能坚持下来。edgex和lighter这个月结束了，后面配合standx、backpack继续搞，nado有两个码可自取](https://quantshark.io/News/faee3edbb65dfd6df74f44bec8bf9fc5)。这反映出资深玩家在多个项目间并行参与，通过持续的任务完成来积累空投资格。
 
 ### 市场情绪观察
 
-[稳定币收益现在非常糟糕，治理代币是金融的未来，alt季即将到来](/News/401070f038ace5f8df88d259c9e6c953)。社区对稳定币收益的恶化感到失望，但对治理代币和山寨币季节的到来保持期待。
+[稳定币收益现在非常糟糕，治理代币是金融的未来，alt季即将到来](https://quantshark.io/News/401070f038ace5f8df88d259c9e6c953)。社区对稳定币收益的恶化感到失望，但对治理代币和山寨币季节的到来保持期待。
 
 ## 其他讨论
 

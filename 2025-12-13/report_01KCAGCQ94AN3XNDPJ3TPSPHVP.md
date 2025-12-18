@@ -10,7 +10,7 @@
 
 ### 1. **JupUSD（Jupiter稳定币）** - 下周上线 ⭐⭐⭐⭐⭐
 
-[Jupiter稳定币JupUSD预计将于下周上线](/News/5f6631407c14daf7c5cbbffec0a54a20)
+[Jupiter稳定币JupUSD预计将于下周上线](https://quantshark.io/News/5f6631407c14daf7c5cbbffec0a54a20)
 
 **关键信息：**
 - 预计上线时间：12月第三周
@@ -27,7 +27,7 @@
 
 ### 2. **TOBY（Toby协议）** - 已宣布代币发行 ⭐⭐⭐⭐
 
-[Solana生态基于MEV的流动质押奖励协议Toby将推出代币](/News/d231b8c600aa0a0c31706b6d26f03f36)
+[Solana生态基于MEV的流动质押奖励协议Toby将推出代币](https://quantshark.io/News/d231b8c600aa0a0c31706b6d26f03f36)
 
 **关键信息：**
 - 项目方：Toby（基于MEV的流动质押奖励协议）
@@ -45,7 +45,7 @@
 
 ### 3. **AFI（AbraFi治理代币）** - 1月1日上线 ⭐⭐⭐⭐
 
-[Abra推出基于Solana的合成资产代币化平台AbraFi与合成美元USDAF](/News/242c739213658d10f5b143139eb31d63)
+[Abra推出基于Solana的合成资产代币化平台AbraFi与合成美元USDAF](https://quantshark.io/News/242c739213658d10f5b143139eb31d63)
 
 **关键信息：**
 - 项目方：Abra（加密金融服务公司）
@@ -66,7 +66,7 @@
 
 ### 4. **RANGER（Ranger Finance永续合约聚合平台）** - 代币公售即将启动 ⭐⭐⭐⭐
 
-[Perp DEX聚合平台Ranger：将开启代币公售，目标筹集600万美元](/News/730102d6d9d3810c5e59546c5f42c928)
+[Perp DEX聚合平台Ranger：将开启代币公售，目标筹集600万美元](https://quantshark.io/News/730102d6d9d3810c5e59546c5f42c928)
 
 **关键信息：**
 - 项目方：Ranger Finance（Solana生态永续合约聚合平台）
@@ -83,7 +83,7 @@
 
 ### 5. **USDGO（OSL稳定币）** - 2026年Q1上线 ⭐⭐⭐
 
-[OSL集团将于Solana发行稳定币USDGO](/News/0746b9079bc0c1762be6847bab24cee3)
+[OSL集团将于Solana发行稳定币USDGO](https://quantshark.io/News/0746b9079bc0c1762be6847bab24cee3)
 
 **关键信息：**
 - 发行方：Anchorage Digital Bank
@@ -102,7 +102,7 @@
 
 ### 6. **DRIFT移动端App代币激励** - 2026年Q1推出 ⭐⭐⭐
 
-[Drift联创：将于2026年Q1推出移动端App](/News/e7cf960cc2a6708efd95ea0b3169ce3d)
+[Drift联创：将于2026年Q1推出移动端App](https://quantshark.io/News/e7cf960cc2a6708efd95ea0b3169ce3d)
 
 **关键信息：**
 - 项目方：Drift（Solana生态DeFi协议）
@@ -119,7 +119,7 @@
 
 ### 7. **KAMINO固定利率借贷产品激励** - 即将推出 ⭐⭐⭐
 
-[Kamino联创：即将推出固定利率与期限借贷产品，实现真正的利率价格发现](/News/b68c01cf8ce28c63088eb53a093f4bfa)
+[Kamino联创：即将推出固定利率与期限借贷产品，实现真正的利率价格发现](https://quantshark.io/News/b68c01cf8ce28c63088eb53a093f4bfa)
 
 **关键信息：**
 - 项目方：Kamino（Solana生态流动性协议）
@@ -138,7 +138,7 @@
 
 ### **RAVE（RaveDAO）** - 已上线，积分空投进行中 ⭐⭐
 
-[Binance Alpha本期RAVE空投单号收益约72美元](/News/7bd2368a810d3c0047351e5ea554a588)
+[Binance Alpha本期RAVE空投单号收益约72美元](https://quantshark.io/News/7bd2368a810d3c0047351e5ea554a588)
 
 **关键信息：**
 - 项目方：RaveDAO
@@ -159,7 +159,7 @@
 
 ### Pacifica交易积分机制 - 潜在空投信号 ⭐⭐⭐
 
-[Pacifica已完成本周1000万枚积分发放，周榜TOP 1地址以67万美元达成1.6亿美元交易量](/News/cbfc56307936c5fcd9ca19ed56202058)
+[Pacifica已完成本周1000万枚积分发放，周榜TOP 1地址以67万美元达成1.6亿美元交易量](https://quantshark.io/News/cbfc56307936c5fcd9ca19ed56202058)
 
 **关键信息：**
 - 项目方：Pacifica（SOL链上永续合约交易平台）

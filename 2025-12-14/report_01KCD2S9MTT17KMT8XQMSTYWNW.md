@@ -4,12 +4,12 @@
 
 ### 🎯 高确定性空投：Fogo（已确认）
 
-[Fogo已正式取消12月17日的代币预售，转向空投分配策略](/News/b088666f5760f0ee8f5cd03953d96c0e)。这是本周最明确的空投信号。
+[Fogo已正式取消12月17日的代币预售，转向空投分配策略](https://quantshark.io/News/b088666f5760f0ee8f5cd03953d96c0e)。这是本周最明确的空投信号。
 
 **关键信息：**
-- [已完成快照的受益群体包括：Fogo Fishers参与者、Portal Bridge积分持有者、所有相关USDC跨链转账用户](/News/b088666f5760f0ee8f5cd03953d96c0e)
-- [首批奖励将于2025年1月13日全网公开主网上线时同步发放](/News/b088666f5760f0ee8f5cd03953d96c0e)
-- [Fogo Flames积分计划是其生态建设的核心支柱](/News/b088666f5760f0ee8f5cd03953d96c0e)
+- [已完成快照的受益群体包括：Fogo Fishers参与者、Portal Bridge积分持有者、所有相关USDC跨链转账用户](https://quantshark.io/News/b088666f5760f0ee8f5cd03953d96c0e)
+- [首批奖励将于2025年1月13日全网公开主网上线时同步发放](https://quantshark.io/News/b088666f5760f0ee8f5cd03953d96c0e)
+- [Fogo Flames积分计划是其生态建设的核心支柱](https://quantshark.io/News/b088666f5760f0ee8f5cd03953d96c0e)
 
 **猎手评价**：这是一个已经完成快照、时间确定的空投。如果你在快照期间有Portal Bridge积分或USDC跨链操作记录，已经锁定收益。对于未来参与者，需要关注项目后续的积分获取机制。
 
@@ -21,29 +21,29 @@
 
 #### 1. **Zeus Network**（BTCFi基础设施）
 
-[Zeus于Solana Breakpoint 2025发表机构级MPC基础架构蓝图](/News/ab2543f1fbd38495820da47467428b87)，这表明项目正在从应用层向基础设施层升级。
+[Zeus于Solana Breakpoint 2025发表机构级MPC基础架构蓝图](https://quantshark.io/News/ab2543f1fbd38495820da47467428b87)，这表明项目正在从应用层向基础设施层升级。
 
 **关键动向：**
-- [Zeus App已于12月9日正式上线，整合了APOLLO、btcSOL与Zeus Delegator三大产品](/News/ab2543f1fbd38495820da47467428b87)
-- [过去一年链上部署的比特币流动性最高曾达513 BTC](/News/ab2543f1fbd38495820da47467428b87)
-- [正在开发UTXO原生的MPC框架，专为比特币与其他UTXO生态设计](/News/ab2543f1fbd38495820da47467428b87)
+- [Zeus App已于12月9日正式上线，整合了APOLLO、btcSOL与Zeus Delegator三大产品](https://quantshark.io/News/ab2543f1fbd38495820da47467428b87)
+- [过去一年链上部署的比特币流动性最高曾达513 BTC](https://quantshark.io/News/ab2543f1fbd38495820da47467428b87)
+- [正在开发UTXO原生的MPC框架，专为比特币与其他UTXO生态设计](https://quantshark.io/News/ab2543f1fbd38495820da47467428b87)
 
 **猎手评价**：Zeus作为Solana上的比特币生产性基础设施，正处于快速扩张期。项目已有明确的产品迭代路线，且获得了Solana生态的重点支持。虽然未明确提及空投，但作为基础设施项目，后续推出治理代币或生态激励的概率较高。建议关注其MPC工具建设进展和开发者支持计划。
 
 #### 2. **BeatSwap（IP-RWA赛道）**
 
-[BTX代币已于12月11日登陆Binance、Gate、MEXC等顶级交易平台](/News/3bf04ab98362dbc1157977a3bea54eb7)，这是一个已发币项目，但其生态扩张可能带来新的激励机制。
+[BTX代币已于12月11日登陆Binance、Gate、MEXC等顶级交易平台](https://quantshark.io/News/3bf04ab98362dbc1157977a3bea54eb7)，这是一个已发币项目，但其生态扩张可能带来新的激励机制。
 
 **关键信息：**
-- [BeatSwap在BNB Chain DappBay的RWA分类中稳居第一](/News/3bf04ab98362dbc1157977a3bea54eb7)
-- [已累计数百万次链上交互，贡献者数量持续快速增长](/News/3bf04ab98362dbc1157977a3bea54eb7)
-- [2025年路线图包括引入更多创作者和IP合作伙伴、扩展RWA及目录收购](/News/3bf04ab98362dbc1157977a3bea54eb7)
+- [BeatSwap在BNB Chain DappBay的RWA分类中稳居第一](https://quantshark.io/News/3bf04ab98362dbc1157977a3bea54eb7)
+- [已累计数百万次链上交互，贡献者数量持续快速增长](https://quantshark.io/News/3bf04ab98362dbc1157977a3bea54eb7)
+- [2025年路线图包括引入更多创作者和IP合作伙伴、扩展RWA及目录收购](https://quantshark.io/News/3bf04ab98362dbc1157977a3bea54eb7)
 
 **猎手评价**：BTX已上线，但项目的生态扩张计划（创作者激励、IP合作伙伴奖励）可能包含新的空投或激励机制。IP-RWA是新兴赛道，项目方可能通过激励来扩大创作者和用户基数。
 
 #### 3. **Huma Finance + Obligate合作**
 
-[Huma Finance、Obligate及TradeFlow Capital在Solana Breakpoint大会上宣布合作](/News/9fb5ad1e4f2071e658b9c776de131ee1)，为稀土矿物交易提供基于Solana的稳定币流动性。
+[Huma Finance、Obligate及TradeFlow Capital在Solana Breakpoint大会上宣布合作](https://quantshark.io/News/9fb5ad1e4f2071e658b9c776de131ee1)，为稀土矿物交易提供基于Solana的稳定币流动性。
 
 **猎手评价**：这是一个新的生态合作，涉及RWA（真实资产）赛道。虽然目前未提及代币或空投，但作为Solana生态的新项目，后续推出激励机制的可能性存在。需要持续关注项目的融资进展和代币计划。
 
@@ -51,7 +51,7 @@
 
 ## 风险提示
 
-- [佛罗里达州公布的加密货币诈骗案](/News/2466f9f5120a2ba720c4a98cedc2651b)提醒我们，在参与任何项目前需要充分验证项目的真实性和安全性
+- [佛罗里达州公布的加密货币诈骗案](https://quantshark.io/News/2466f9f5120a2ba720c4a98cedc2651b)提醒我们，在参与任何项目前需要充分验证项目的真实性和安全性
 - 空投参与需谨慎，避免在不明确的项目上进行大额操作
 
 ---

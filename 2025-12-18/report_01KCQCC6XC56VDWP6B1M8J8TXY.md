@@ -7,45 +7,45 @@
 ### 一、Binance Alpha TGE/空投项目（已确认）
 
 **1. Infrared (IR)** - 已TGE
-- [Binance Alpha已上线IR，当前市值5500万美元](/News/689ae33459a2302400b72baa4cf47632)
-- [Bitget将上线IR现货交易](/News/a7ba30cad29c244bffacda4b3986d111)
-- [Binance：Infrared（IR）TGE参与门槛为225 Alpha积分](/News/4aa29c81ba76497a42451e4a3e36b963)
+- [Binance Alpha已上线IR，当前市值5500万美元](https://quantshark.io/News/689ae33459a2302400b72baa4cf47632)
+- [Bitget将上线IR现货交易](https://quantshark.io/News/a7ba30cad29c244bffacda4b3986d111)
+- [Binance：Infrared（IR）TGE参与门槛为225 Alpha积分](https://quantshark.io/News/4aa29c81ba76497a42451e4a3e36b963)
 - **参与方式**：需要225个Alpha积分，参与消耗15积分
 - **风险提示**：已上线交易，市值5500万美元，币价0.271美元
 
 **2. VOOI (VOOI)** - 即将上线
-- [Binance Alpha将于12月18日上线VOOI](/News/e3dc6ce58fc8aded4fde5fed8e85d357)
+- [Binance Alpha将于12月18日上线VOOI](https://quantshark.io/News/e3dc6ce58fc8aded4fde5fed8e85d357)
 - **参与方式**：符合条件用户可在交易开放后使用Alpha积分领取空投
 - **时间**：12月18日
 
 **3. zkPass (ZKP)** - 即将上线
-- [Binance Alpha将于12月19日上线zkPass](/News/1e3217e315535204d64ae5f715d7431c)
+- [Binance Alpha将于12月19日上线zkPass](https://quantshark.io/News/1e3217e315535204d64ae5f715d7431c)
 - **参与方式**：符合条件用户可在交易开放后使用Alpha积分领取空投
 - **时间**：12月19日
 
 **4. AgentLISA (LISA)** - 即将上线
-- [Binance Alpha将于12月18日上线AgentLISA](/News/91f503ce063de84f7c50419ad54e5369)
+- [Binance Alpha将于12月18日上线AgentLISA](https://quantshark.io/News/91f503ce063de84f7c50419ad54e5369)
 - **参与方式**：符合条件用户可在交易开放后使用Alpha积分领取空投
 - **时间**：12月18日
 
 ### 二、其他交易所空投机会
 
 **1. predict.fun - 已上线，正在进行初始积分空投**
-- [predict.fun已上线，正向预测市场参与者和BNB Chain交易用户进行初始积分空投](/News/8315e34fda9dd4bcb5355ec018151331)
+- [predict.fun已上线，正向预测市场参与者和BNB Chain交易用户进行初始积分空投](https://quantshark.io/News/8315e34fda9dd4bcb5355ec018151331)
 - **项目类型**：预测市场
 - **参与方式**：面向预测市场参与者以及BNB Chain交易用户
 - **当前状态**：平台交易量已达1000万美元
 - **重点关注**：这是一个已上线且正在进行空投的项目，参与门槛相对较低
 
 **2. Bitget CandyBomb - 合约交易空投**
-- [Bitget CandyBomb上线IR、THQ，合约交易解锁代币空投](/News/7ecbc37896afe91864cc35249be0502e)
+- [Bitget CandyBomb上线IR、THQ，合约交易解锁代币空投](https://quantshark.io/News/7ecbc37896afe91864cc35249be0502e)
 - **项目**：IR、THQ
 - **参与方式**：完成特定合约交易量任务
 - **奖励**：单人最高可得666枚IR或666枚THQ
 - **时间**：截止2025年12月24日
 
 **3. Bitget PoolX - TRX质押空投**
-- [TRX即将上线Bitget PoolX，锁仓TRX、BTT、SUN、JST解锁17万枚TRX](/News/32c96c842e83be8b6ab832208765eec4)
+- [TRX即将上线Bitget PoolX，锁仓TRX、BTT、SUN、JST解锁17万枚TRX](https://quantshark.io/News/32c96c842e83be8b6ab832208765eec4)
 - **项目**：TRON (TRX)
 - **参与方式**：锁仓TRX、BTT、SUN、JST
 - **奖励**：总奖池179,000枚TRX
@@ -54,7 +54,7 @@
 ### 三、链上交易积分空投机会
 
 **1. Pacifica - 交易积分空投**
-- [Pacifica盈利榜首地址交易量超18亿美元，预计可获70万枚积分奖励](/News/ce32c082a640e60001e1a9abe592a441)
+- [Pacifica盈利榜首地址交易量超18亿美元，预计可获70万枚积分奖励](https://quantshark.io/News/ce32c082a640e60001e1a9abe592a441)
 - **参与方式**：进行合约交易，积累交易积分
 - **机制**：高频交易员可通过交易量积累积分，预计未来有空投机会
 - **工具**：Coinbob已上线Coinbob Pacifica，可跟单高频交易员
@@ -73,7 +73,7 @@
 ### 四、其他生态空投机会
 
 **1. MGBX - 圣诞合约交易激励**
-- [MGBX启动圣诞合约交易激励活动，总奖池价值达21,888USDT](/News/7b131e8fdfab7a7ce244bcaceba6404e)
+- [MGBX启动圣诞合约交易激励活动，总奖池价值达21,888USDT](https://quantshark.io/News/7b131e8fdfab7a7ce244bcaceba6404e)
 - **时间**：12月18日至12月31日
 - **参与方式**：合约交易排名、交易量排行、爆仓补贴、幸运仓位空投等
 - **奖励**：总价值21,888 USDT
@@ -117,9 +117,9 @@
 
 1. **Alpha积分门槛**：多个Binance项目需要225个Alpha积分，这限制了参与范围
 2. **项目质量参差不齐**：部分项目基本面信息有限，需谨慎评估
-3. **市场风险**：当前市场处于调整阶段，[比特币本轮下跌「不同以往」，未伴随重大危机但资金持续撤离](/News/a0f074baf7c499e44dee7895795db078)
-4. **监管风险**：[Binance发布上币途径概览](/News/e88a16f609b92a4ef37686f0f89217e1)，强调了合规要求
-5. **欺诈风险**：[Binance切勿相信任何「上币代理」](/News/2bf23739f731a075da131399608583a6)，需警惕诈骗
+3. **市场风险**：当前市场处于调整阶段，[比特币本轮下跌「不同以往」，未伴随重大危机但资金持续撤离](https://quantshark.io/News/a0f074baf7c499e44dee7895795db078)
+4. **监管风险**：[Binance发布上币途径概览](https://quantshark.io/News/e88a16f609b92a4ef37686f0f89217e1)，强调了合规要求
+5. **欺诈风险**：[Binance切勿相信任何「上币代理」](https://quantshark.io/News/2bf23739f731a075da131399608583a6)，需警惕诈骗
 
 ## 操作建议
 

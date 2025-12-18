@@ -2,7 +2,7 @@
 
 ## 核心洞察（TL;DR）
 
-[地缘政治紧张升级与美联储政策分化](/News/87116191ddbffadc31d6634e3ace6ff3)，正在重塑全球资本流向与资产定价逻辑。俄乌冲突升温、[泰柬边境冲突](/News/87c0d674352efcdbf183b788d3fe6d0b)、[美国对委内瑞拉军事施压](/News/dc081a2dd8e808ff048f0e9984f6c60d)等事件，叠加[美联储高官鹰派言论](/News/b6462cd95ec05092d9756ea52443012b)与[日本央行加息预期](/News/83fec5133db5c1bcacc2f27cea048cf1)，正在推动全球流动性格局的深刻调整。与此同时，[中国经济基本面保持韧性](/News/0597d707f4b5f217daa9f4399cd2613f)，但[房地产风险加剧](/News/9141bbc6babab27e48bc4d9d11d46c32)，产业政策重心转向[新能源、AI、制造业升级](/News/77d24a6af34e1575d077e1bb75013ef2)。
+[地缘政治紧张升级与美联储政策分化](https://quantshark.io/News/87116191ddbffadc31d6634e3ace6ff3)，正在重塑全球资本流向与资产定价逻辑。俄乌冲突升温、[泰柬边境冲突](https://quantshark.io/News/87c0d674352efcdbf183b788d3fe6d0b)、[美国对委内瑞拉军事施压](https://quantshark.io/News/dc081a2dd8e808ff048f0e9984f6c60d)等事件，叠加[美联储高官鹰派言论](https://quantshark.io/News/b6462cd95ec05092d9756ea52443012b)与[日本央行加息预期](https://quantshark.io/News/83fec5133db5c1bcacc2f27cea048cf1)，正在推动全球流动性格局的深刻调整。与此同时，[中国经济基本面保持韧性](https://quantshark.io/News/0597d707f4b5f217daa9f4399cd2613f)，但[房地产风险加剧](https://quantshark.io/News/9141bbc6babab27e48bc4d9d11d46c32)，产业政策重心转向[新能源、AI、制造业升级](https://quantshark.io/News/77d24a6af34e1575d077e1bb75013ef2)。
 
 ---
 
@@ -12,33 +12,33 @@
 
 **美联储：鹰派围城，降息前景承压**
 
-[美联储多位官员发声解释投出降息反对票](/News/b6462cd95ec05092d9756ea52443012b)，为降息前景泼冷水。[特朗普表示美联储主席应在利率决策上征询他的意见](/News/e02ff033560ef3e69851beb17ad6217e)，同时[倾向选择沃什或哈塞特接任美联储主席](/News/9017722bcb85c8e376194e60b24a6e32)，这表明美联储的独立性面临政治压力。市场对2026年降息的预期正在重新定价，长期美债收益率面临上行压力。
+[美联储多位官员发声解释投出降息反对票](https://quantshark.io/News/b6462cd95ec05092d9756ea52443012b)，为降息前景泼冷水。[特朗普表示美联储主席应在利率决策上征询他的意见](https://quantshark.io/News/e02ff033560ef3e69851beb17ad6217e)，同时[倾向选择沃什或哈塞特接任美联储主席](https://quantshark.io/News/9017722bcb85c8e376194e60b24a6e32)，这表明美联储的独立性面临政治压力。市场对2026年降息的预期正在重新定价，长期美债收益率面临上行压力。
 
 **日本央行：加息预期升温，政策转向确认**
 
-[日本财务大臣表态支持央行加息预期](/News/83fec5133db5c1bcacc2f27cea048cf1)，预示日本央行可能在12月会议上将政策利率从0.5%上调至0.75%。这标志着日本央行正式退出负利率时代，对全球汇市与资本流动产生深远影响。日元升值压力增加，套利交易面临风险。
+[日本财务大臣表态支持央行加息预期](https://quantshark.io/News/83fec5133db5c1bcacc2f27cea048cf1)，预示日本央行可能在12月会议上将政策利率从0.5%上调至0.75%。这标志着日本央行正式退出负利率时代，对全球汇市与资本流动产生深远影响。日元升值压力增加，套利交易面临风险。
 
 **欧洲央行：政策空间受限，增长担忧加重**
 
-[欧盟无限期冻结2100亿欧元俄央行资产](/News/4472ca6355ad719d759b432b8514e4dd)，为对乌克兰的1650亿欧元贷款计划扫清障碍。但[欧盟官员表示乌克兰2027年前加入欧盟"绝对不可能"](/News/f1ce33a8dddb3add79f0848bbb0ef7e5)，反映出欧洲在地缘政治与经济一体化间的深刻矛盾。
+[欧盟无限期冻结2100亿欧元俄央行资产](https://quantshark.io/News/4472ca6355ad719d759b432b8514e4dd)，为对乌克兰的1650亿欧元贷款计划扫清障碍。但[欧盟官员表示乌克兰2027年前加入欧盟"绝对不可能"](https://quantshark.io/News/f1ce33a8dddb3add79f0848bbb0ef7e5)，反映出欧洲在地缘政治与经济一体化间的深刻矛盾。
 
 **中国央行：稳增长与稳汇率的平衡**
 
-[中国经济总量预计达140万亿元](/News/b05b86e953a76e46cc57ba1de10097d5)，[明年要促进居民收入增长和经济增长同步](/News/857f4284599d24024cfa5f02c77baf23)。央行继续实施适度宽松的货币政策，但11月信贷增速放缓，反映出企业和居民融资需求的疲软。
+[中国经济总量预计达140万亿元](https://quantshark.io/News/b05b86e953a76e46cc57ba1de10097d5)，[明年要促进居民收入增长和经济增长同步](https://quantshark.io/News/857f4284599d24024cfa5f02c77baf23)。央行继续实施适度宽松的货币政策，但11月信贷增速放缓，反映出企业和居民融资需求的疲软。
 
 ### 地缘政治与大国关系
 
 **俄乌冲突升温，和平前景渺茫**
 
-[俄罗斯东部军区部队正在特别军事行动区推进](/News/87116191ddbffadc31d6634e3ace6ff3)，[俄武装力量对乌克兰军工复合体设施发动报复性打击](/News/f7c1bfa0c2a1792ff585dcade47bd1f5)。[朝鲜工兵部队在俄罗斯库尔斯克州出色完成任务](/News/e0f4010f7df2d180ecda0f0b290b9af2)，表明俄朝军事合作正在深化。[土耳其总统希望推动乌克兰-俄罗斯和平方案](/News/8a98b234f70600eff36d932708e1b287)，但[美国拟让乌克兰2027年加入欧盟](/News/53a4a343a1143d35d1f33e04c79b62c8)的提议被欧洲官员认为"不切实际"。
+[俄罗斯东部军区部队正在特别军事行动区推进](https://quantshark.io/News/87116191ddbffadc31d6634e3ace6ff3)，[俄武装力量对乌克兰军工复合体设施发动报复性打击](https://quantshark.io/News/f7c1bfa0c2a1792ff585dcade47bd1f5)。[朝鲜工兵部队在俄罗斯库尔斯克州出色完成任务](https://quantshark.io/News/e0f4010f7df2d180ecda0f0b290b9af2)，表明俄朝军事合作正在深化。[土耳其总统希望推动乌克兰-俄罗斯和平方案](https://quantshark.io/News/8a98b234f70600eff36d932708e1b287)，但[美国拟让乌克兰2027年加入欧盟](https://quantshark.io/News/53a4a343a1143d35d1f33e04c79b62c8)的提议被欧洲官员认为"不切实际"。
 
 **泰柬边境冲突升级，地区稳定受威胁**
 
-[泰国拒绝停火，称非谈判时机](/News/87c0d674352efcdbf183b788d3fe6d0b)，特朗普与安华再次斡旋但泰国不领情。冲突已造成20多人死亡，数十万人流离失所，[柬埔寨全面暂停与泰国的边境口岸通行](/News/87c0d674352efcdbf183b788d3fe6d0b)。
+[泰国拒绝停火，称非谈判时机](https://quantshark.io/News/87c0d674352efcdbf183b788d3fe6d0b)，特朗普与安华再次斡旋但泰国不领情。冲突已造成20多人死亡，数十万人流离失所，[柬埔寨全面暂停与泰国的边境口岸通行](https://quantshark.io/News/87c0d674352efcdbf183b788d3fe6d0b)。
 
 **美国对委内瑞拉施压升级，拉美局势恶化**
 
-[美国向加勒比增派军力](/News/dc081a2dd8e808ff048f0e9984f6c60d)，[特朗普宣布将开展地面打击](/News/787fb8d26d894d360d0741b644fa097e)，[美国扣押委内瑞拉油轮](/News/f8b9b562ff89a947eb67f99e394d45bf)。[马杜罗表示美国威胁手段永远行不通](/News/f8b9b562ff89a947eb67f99e394d45bf)，但美国的军事集结表明冲突升级风险正在上升。
+[美国向加勒比增派军力](https://quantshark.io/News/dc081a2dd8e808ff048f0e9984f6c60d)，[特朗普宣布将开展地面打击](https://quantshark.io/News/787fb8d26d894d360d0741b644fa097e)，[美国扣押委内瑞拉油轮](https://quantshark.io/News/f8b9b562ff89a947eb67f99e394d45bf)。[马杜罗表示美国威胁手段永远行不通](https://quantshark.io/News/f8b9b562ff89a947eb67f99e394d45bf)，但美国的军事集结表明冲突升级风险正在上升。
 
 **中菲南海摩擦持续，主权争议激化**
 
@@ -48,15 +48,15 @@
 
 **中国：从"稳增长"向"提质增效"转变**
 
-[中国经济年会强调"五个必须"](/News/413a33cb40d1305f434f79aeaab02caa)，[明年既要扩大出口也要增加进口](/News/85bdf34d15455fa9c87a7880804e9a88)。[国家发改委推进投资止跌回稳](/News/be3240fbcc4f793fad156d1da25fd0dc)，[多措并举促进投资](/News/be3240fbcc4f793fad156d1da25fd0dc)。[国家发改委加快出台"人工智能+"消费等领域提振消费的政策](/News/e60d33ef34c722805fa4fd72e4848aac)，[扩大绿电应用，加快新型能源体系建设](/News/77d24a6af34e1575d077e1bb75013ef2)。
+[中国经济年会强调"五个必须"](https://quantshark.io/News/413a33cb40d1305f434f79aeaab02caa)，[明年既要扩大出口也要增加进口](https://quantshark.io/News/85bdf34d15455fa9c87a7880804e9a88)。[国家发改委推进投资止跌回稳](https://quantshark.io/News/be3240fbcc4f793fad156d1da25fd0dc)，[多措并举促进投资](https://quantshark.io/News/be3240fbcc4f793fad156d1da25fd0dc)。[国家发改委加快出台"人工智能+"消费等领域提振消费的政策](https://quantshark.io/News/e60d33ef34c722805fa4fd72e4848aac)，[扩大绿电应用，加快新型能源体系建设](https://quantshark.io/News/77d24a6af34e1575d077e1bb75013ef2)。
 
 **美国：财政赤字与债务可持续性担忧升温**
 
-[美联储激进购债推高长端利率](/News/827b34d4c4ba051e88ce965f7168adf5)，财政赤字与债务可持续性担忧升温。[特朗普政府对加州撤销3300万美元联邦拨款](/News/da6ca2d5f0b53e0eda84888cc71cbfea)，反映出联邦与地方政府间的政策分歧。
+[美联储激进购债推高长端利率](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，财政赤字与债务可持续性担忧升温。[特朗普政府对加州撤销3300万美元联邦拨款](https://quantshark.io/News/da6ca2d5f0b53e0eda84888cc71cbfea)，反映出联邦与地方政府间的政策分歧。
 
 **欧洲：绿色转型与竞争力平衡的困境**
 
-[欧盟拟放宽2035年燃油车禁令](/News/87ae1b9aa232b7f95ada8b3964492f1e)，反映出欧洲汽车业在绿色转型中面临的成本压力。[德国总理默茨强调保持制造业竞争力的必要性](/News/87ae1b9aa232b7f95ada8b3964492f1e)。
+[欧盟拟放宽2035年燃油车禁令](https://quantshark.io/News/87ae1b9aa232b7f95ada8b3964492f1e)，反映出欧洲汽车业在绿色转型中面临的成本压力。[德国总理默茨强调保持制造业竞争力的必要性](https://quantshark.io/News/87ae1b9aa232b7f95ada8b3964492f1e)。
 
 ---
 
@@ -66,47 +66,47 @@
 
 **中国经济韧性保持，但增长动力分化**
 
-[中国经济总量预计达140万亿元](/News/b05b86e953a76e46cc57ba1de10097d5)，[主要经济指标表现好于预期](/News/0597d707f4b5f217daa9f4399cd2613f)。但11月信贷增速放缓，企业长贷需求有限，反映出企业投资意愿不足。房地产市场持续下行，[万科债券展期议案未获足够支持](/News/9141bbc6babab27e48bc4d9d11d46c32)，房地产风险加剧。
+[中国经济总量预计达140万亿元](https://quantshark.io/News/b05b86e953a76e46cc57ba1de10097d5)，[主要经济指标表现好于预期](https://quantshark.io/News/0597d707f4b5f217daa9f4399cd2613f)。但11月信贷增速放缓，企业长贷需求有限，反映出企业投资意愿不足。房地产市场持续下行，[万科债券展期议案未获足够支持](https://quantshark.io/News/9141bbc6babab27e48bc4d9d11d46c32)，房地产风险加剧。
 
 **美国经济增长放缓，衰退风险上升**
 
-[美股科技股大跌](/News/827b34d4c4ba051e88ce965f7168adf5)，[博通警告利润率将收缩](/News/827b34d4c4ba051e88ce965f7168adf5)，[甲骨文数据中心竣工时间推迟](/News/827b34d4c4ba051e88ce965f7168adf5)。这些信号表明AI投资的可持续性面临质疑，高估值科技股遭抛售。
+[美股科技股大跌](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，[博通警告利润率将收缩](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，[甲骨文数据中心竣工时间推迟](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)。这些信号表明AI投资的可持续性面临质疑，高估值科技股遭抛售。
 
 **全球贸易增长乏力，保护主义抬头**
 
-[中国贸易顺差首次突破1万亿美元](/News/0f449d6e233870e65c4bcbfa1d59ee28)，引发国际贸易不平衡担忧。[美国对华鹰派政策持续强化](/News/c65a8b759cc76838bb5e432141e07550)，[中国拟出台5000亿元芯片激励措施](/News/51cf3ff225dc5238319f223849079eef)，全球贸易摩擦升温。
+[中国贸易顺差首次突破1万亿美元](https://quantshark.io/News/0f449d6e233870e65c4bcbfa1d59ee28)，引发国际贸易不平衡担忧。[美国对华鹰派政策持续强化](https://quantshark.io/News/c65a8b759cc76838bb5e432141e07550)，[中国拟出台5000亿元芯片激励措施](https://quantshark.io/News/51cf3ff225dc5238319f223849079eef)，全球贸易摩擦升温。
 
 ### 板块供需动态
 
 **黄金：地缘风险与降息预期支撑**
 
-[黄金逼近前高](/News/79fe7f5cb5d027c19582efba49665bf8)，[高盛预测2026年底黄金价格将达4900美元/盎司](/News/79fe7f5cb5d027c19582efba49665bf8)。[世界黄金协会认为地缘经济不确定性将继续影响黄金市场](/News/79fe7f5cb5d027c19582efba49665bf8)。央行购金需求与回收金供应趋势成为关键驱动因素。
+[黄金逼近前高](https://quantshark.io/News/79fe7f5cb5d027c19582efba49665bf8)，[高盛预测2026年底黄金价格将达4900美元/盎司](https://quantshark.io/News/79fe7f5cb5d027c19582efba49665bf8)。[世界黄金协会认为地缘经济不确定性将继续影响黄金市场](https://quantshark.io/News/79fe7f5cb5d027c19582efba49665bf8)。央行购金需求与回收金供应趋势成为关键驱动因素。
 
 **半导体：AI投资热潮面临冷却**
 
-[英伟达H200出口获批，但中国企业拒绝采购](/News/6c5729541f58bbf921a3001054363c53)，[中国转而支持国产半导体](/News/fc7b8634a525ad7d089a85e72c1fd99c)。[中国拟向芯片行业提供5000亿元激励措施](/News/51cf3ff225dc5238319f223849079eef)，[华为麒麟9030采用中芯7纳米工艺](/News/2b657602b8f8a87c4b478e059ff75035)。[英特尔测试涉中厂商晶片设备](/News/c21448fb31d256adaaa0e82d6ccd82cf)，引发美国安全担忧。
+[英伟达H200出口获批，但中国企业拒绝采购](https://quantshark.io/News/6c5729541f58bbf921a3001054363c53)，[中国转而支持国产半导体](https://quantshark.io/News/fc7b8634a525ad7d089a85e72c1fd99c)。[中国拟向芯片行业提供5000亿元激励措施](https://quantshark.io/News/51cf3ff225dc5238319f223849079eef)，[华为麒麟9030采用中芯7纳米工艺](https://quantshark.io/News/2b657602b8f8a87c4b478e059ff75035)。[英特尔测试涉中厂商晶片设备](https://quantshark.io/News/c21448fb31d256adaaa0e82d6ccd82cf)，引发美国安全担忧。
 
 **新能源与储能：政策驱动的刚性需求**
 
-[铜价逼近12000美元每吨创15年新高](/News/fee574b8d75680164eee993f7477c877)，AI数据中心与新能源基础设施建设推高铜需求。[磷酸铁锂行业寻求以标准提升准入门槛](/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)，[多家上市公司拟提价](/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)。[赣锋锂电10GWh光储直柔零碳产业基地项目签约](/News/e3e45aa4ba89ee03c55ba870f87b235e)，宁德时代发布"船-岸-云"零碳航运解决方案。
+[铜价逼近12000美元每吨创15年新高](https://quantshark.io/News/fee574b8d75680164eee993f7477c877)，AI数据中心与新能源基础设施建设推高铜需求。[磷酸铁锂行业寻求以标准提升准入门槛](https://quantshark.io/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)，[多家上市公司拟提价](https://quantshark.io/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)。[赣锋锂电10GWh光储直柔零碳产业基地项目签约](https://quantshark.io/News/e3e45aa4ba89ee03c55ba870f87b235e)，宁德时代发布"船-岸-云"零碳航运解决方案。
 
 **汽车：价格战升温，监管介入**
 
-[国家市场监督管理总局发布汽车行业价格行为合规指南](/News/1e36347ee8051022ea827bc2bc73c8f6)，[比亚迪、小鹏等车企表态响应](/News/1e36347ee8051022ea827bc2bc73c8f6)。[中国拟出台更严格监管措施遏制汽车价格战](/News/fc30cdb85420341872342ba88d0ed2a1)。[小米汽车现车选购升级](/News/6cb23786fe987c925eab9fd3e4f80f10)，[比亚迪技术下放至10万级车型](/News/82263b99bd9db73783407e6462d3f0be)。
+[国家市场监督管理总局发布汽车行业价格行为合规指南](https://quantshark.io/News/1e36347ee8051022ea827bc2bc73c8f6)，[比亚迪、小鹏等车企表态响应](https://quantshark.io/News/1e36347ee8051022ea827bc2bc73c8f6)。[中国拟出台更严格监管措施遏制汽车价格战](https://quantshark.io/News/fc30cdb85420341872342ba88d0ed2a1)。[小米汽车现车选购升级](https://quantshark.io/News/6cb23786fe987c925eab9fd3e4f80f10)，[比亚迪技术下放至10万级车型](https://quantshark.io/News/82263b99bd9db73783407e6462d3f0be)。
 
 ### 跨市场资金流向
 
 **美股：科技股估值压力加大，流动性收紧**
 
-[美股三大指数集体收跌](/News/827b34d4c4ba051e88ce965f7168adf5)，[纳指跌1.69%](/News/827b34d4c4ba051e88ce965f7168adf5)。[英伟达收跌3.27%](/News/827b34d4c4ba051e88ce965f7168adf5)，[芯片板块普遍承压](/News/827b34d4c4ba051e88ce965f7168adf5)。
+[美股三大指数集体收跌](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，[纳指跌1.69%](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)。[英伟达收跌3.27%](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，[芯片板块普遍承压](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)。
 
 **港股：中国科技股面临调整，但政策托底预期增强**
 
-腾讯、阿里等科技龙头股价承压，但[中国经济政策托底预期](/News/0597d707f4b5f217daa9f4399cd2613f)支撑估值修复空间。
+腾讯、阿里等科技龙头股价承压，但[中国经济政策托底预期](https://quantshark.io/News/0597d707f4b5f217daa9f4399cd2613f)支撑估值修复空间。
 
 **大宗商品：地缘风险与能源转型推高价格**
 
-[铜价创15年新高](/News/fee574b8d75680164eee993f7477c877)，[石油价格面临供应担忧](/News/89a47a07191335f3fe3015fe588e6fec)。[中国石油进口策略转变](/News/8cced0500d0177f48607e75505f1e818)，新能源替代推高能源转型相关商品价格。
+[铜价创15年新高](https://quantshark.io/News/fee574b8d75680164eee993f7477c877)，[石油价格面临供应担忧](https://quantshark.io/News/89a47a07191335f3fe3015fe588e6fec)。[中国石油进口策略转变](https://quantshark.io/News/8cced0500d0177f48607e75505f1e818)，新能源替代推高能源转型相关商品价格。
 
 ---
 
@@ -116,25 +116,25 @@
 
 **美元指数：跌破98关口，三周连跌**
 
-[美元指数跌破98](/News/827b34d4c4ba051e88ce965f7168adf5)，反映出美联储降息预期的重新定价与地缘政治风险溢价的上升。
+[美元指数跌破98](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，反映出美联储降息预期的重新定价与地缘政治风险溢价的上升。
 
 **美债收益率：长期收益率普涨**
 
-[10年期美债收益率涨近3基点](/News/827b34d4c4ba051e88ce965f7168adf5)，反映出财政赤字与债务可持续性担忧升温。
+[10年期美债收益率涨近3基点](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，反映出财政赤字与债务可持续性担忧升温。
 
 **黄金：创历史新高，地缘风险溢价明显**
 
-[黄金逼近前高](/News/79fe7f5cb5d027c19582efba49665bf8)，[白银盘中跳水超3%](/News/827b34d4c4ba051e88ce965f7168adf5)，反映出市场对风险资产的重新定价。
+[黄金逼近前高](https://quantshark.io/News/79fe7f5cb5d027c19582efba49665bf8)，[白银盘中跳水超3%](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，反映出市场对风险资产的重新定价。
 
 **铜：供应担忧与需求前景支撑**
 
-[铜价逼近12000美元每吨](/News/fee574b8d75680164eee993f7477c877)，印尼煤出口新政或制约进口，全球供应链风险溢价上升。
+[铜价逼近12000美元每吨](https://quantshark.io/News/fee574b8d75680164eee993f7477c877)，印尼煤出口新政或制约进口，全球供应链风险溢价上升。
 
 ### 市场情绪与仓位
 
 **VIX恐惧指数：波动率上升，风险偏好下降**
 
-[美股科技股大幅下跌](/News/827b34d4c4ba051e88ce965f7168adf5)，市场风险偏好明显下降。期货市场头寸显示投资者对美元、日元、黄金的仓位可能过度拥挤。
+[美股科技股大幅下跌](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，市场风险偏好明显下降。期货市场头寸显示投资者对美元、日元、黄金的仓位可能过度拥挤。
 
 ---
 
@@ -144,33 +144,33 @@
 
 **AI芯片：国产替代加速，地缘政治重塑产业格局**
 
-[华为麒麟9030采用中芯7纳米工艺](/News/2b657602b8f8a87c4b478e059ff75035)，[中国拟向芯片行业提供5000亿元激励措施](/News/fc7b8634a525ad7d089a85e72c1fd99c)。[英伟达H200出口获批，但中国企业拒绝采购](/News/6c5729541f58bbf921a3001054363c53)，转而支持国产半导体。
+[华为麒麟9030采用中芯7纳米工艺](https://quantshark.io/News/2b657602b8f8a87c4b478e059ff75035)，[中国拟向芯片行业提供5000亿元激励措施](https://quantshark.io/News/fc7b8634a525ad7d089a85e72c1fd99c)。[英伟达H200出口获批，但中国企业拒绝采购](https://quantshark.io/News/6c5729541f58bbf921a3001054363c53)，转而支持国产半导体。
 
 **机器人与具身智能：产业化加速，应用场景拓展**
 
-[宇树科技首发人形机器人App Store](/News/689789b80a054eb10729f46dcf012cff)，[新时达预计2026年年初宣布具身智能新进展](/News/3f1d0102bfcedabbf3b4742623a87f26)。[深圳将建全国首个机器人友好示范城区](/News/3ef2857428a60c5cdd7d1b5bcdf1d1da)，[广东省人工智能与机器人企业超3700家](/News/32dba4d7f188f998a23ceed4bda820b0)。
+[宇树科技首发人形机器人App Store](https://quantshark.io/News/689789b80a054eb10729f46dcf012cff)，[新时达预计2026年年初宣布具身智能新进展](https://quantshark.io/News/3f1d0102bfcedabbf3b4742623a87f26)。[深圳将建全国首个机器人友好示范城区](https://quantshark.io/News/3ef2857428a60c5cdd7d1b5bcdf1d1da)，[广东省人工智能与机器人企业超3700家](https://quantshark.io/News/32dba4d7f188f998a23ceed4bda820b0)。
 
 **固态电池：产业化进展加快，商业应用前景明朗**
 
-[吉利7100万放大验证固态电池](/News/47e9d0d2f145c69343ee41f963daad51)，[奇瑞安瓦获商用车1GWh固态电池订单](/News/47e9d0d2f145c69343ee41f963daad51)。[卫蓝新能源启动IPO](/News/fef39cfdb7c565af31569223fe9781d1)，固态电池正从实验室走向产业化。
+[吉利7100万放大验证固态电池](https://quantshark.io/News/47e9d0d2f145c69343ee41f963daad51)，[奇瑞安瓦获商用车1GWh固态电池订单](https://quantshark.io/News/47e9d0d2f145c69343ee41f963daad51)。[卫蓝新能源启动IPO](https://quantshark.io/News/fef39cfdb7c565af31569223fe9781d1)，固态电池正从实验室走向产业化。
 
 **AI大模型：推理能力突破，专业级应用落地**
 
-[OpenAI GPT 5.2发布](/News/51efbf698c5ec907857effe36fe27730)，[推理和专业知识工作能力首次达到人类专家水准](/News/51efbf698c5ec907857effe36fe27730)。[腾讯混元大模型持续迭代](/News/9dff6753c92e922f7117e505fc1b9845)，[商汤与宁德时代联合研发能源大模型](/News/334f126304e0805e677524e6fef5339f)。
+[OpenAI GPT 5.2发布](https://quantshark.io/News/51efbf698c5ec907857effe36fe27730)，[推理和专业知识工作能力首次达到人类专家水准](https://quantshark.io/News/51efbf698c5ec907857effe36fe27730)。[腾讯混元大模型持续迭代](https://quantshark.io/News/9dff6753c92e922f7117e505fc1b9845)，[商汤与宁德时代联合研发能源大模型](https://quantshark.io/News/334f126304e0805e677524e6fef5339f)。
 
 ### 商业模式与监管演变
 
 **AI监管：从鼓励创新向规范发展转变**
 
-[国家市场监督管理总局发布汽车行业价格行为合规指南](/News/1e36347ee8051022ea827bc2bc73c8f6)，[微博整治涉企侵权](/News/e5bda0fb466250b3eece0077d275f47d)。监管部门正在建立更完善的AI应用规范体系。
+[国家市场监督管理总局发布汽车行业价格行为合规指南](https://quantshark.io/News/1e36347ee8051022ea827bc2bc73c8f6)，[微博整治涉企侵权](https://quantshark.io/News/e5bda0fb466250b3eece0077d275f47d)。监管部门正在建立更完善的AI应用规范体系。
 
 **新能源与储能：从补贴驱动向市场化转变**
 
-[磷酸铁锂行业寻求以标准提升准入门槛](/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)，[多家上市公司拟提价](/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)。行业正在从价格竞争向品质竞争转变。
+[磷酸铁锂行业寻求以标准提升准入门槛](https://quantshark.io/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)，[多家上市公司拟提价](https://quantshark.io/News/a8cde2da3f7d2a238ce8dfb3cbc860ae)。行业正在从价格竞争向品质竞争转变。
 
 **房地产：从增量开发向存量盘活转变**
 
-[中央经济工作会议强调"做优增量、盘活存量"](/News/6af7193f0b0b34fc600af1d3ad194c3e)，[鼓励收购存量商品房用于保障房](/News/6af7193f0b0b34fc600af1d3ad194c3e)。房地产发展新模式正在形成。
+[中央经济工作会议强调"做优增量、盘活存量"](https://quantshark.io/News/6af7193f0b0b34fc600af1d3ad194c3e)，[鼓励收购存量商品房用于保障房](https://quantshark.io/News/6af7193f0b0b34fc600af1d3ad194c3e)。房地产发展新模式正在形成。
 
 ---
 
@@ -183,13 +183,13 @@
 **建议配置**：
 
 1. **超配黄金ETF（GLD）与长期美债（TLT）**
-   - **理由**：[地缘政治风险升温](/News/87116191ddbffadc31d6634e3ace6ff3)与[降息预期支撑黄金](/News/79fe7f5cb5d027c19582efba49665bf8)。[美债收益率面临上行压力](/News/827b34d4c4ba051e88ce965f7168adf5)，但长期配置价值凸显。
+   - **理由**：[地缘政治风险升温](https://quantshark.io/News/87116191ddbffadc31d6634e3ace6ff3)与[降息预期支撑黄金](https://quantshark.io/News/79fe7f5cb5d027c19582efba49665bf8)。[美债收益率面临上行压力](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，但长期配置价值凸显。
 
 2. **标配高股息蓝筹股**
-   - **理由**：[中国经济政策托底预期](/News/0597d707f4b5f217daa9f4399cd2613f)与[银行分红突破2600亿元](/News/ff6f0afd6712e4df86eeb81334741591)提供稳定收益。
+   - **理由**：[中国经济政策托底预期](https://quantshark.io/News/0597d707f4b5f217daa9f4399cd2613f)与[银行分红突破2600亿元](https://quantshark.io/News/ff6f0afd6712e4df86eeb81334741591)提供稳定收益。
 
 3. **低配强周期板块（工业金属、航运）**
-   - **理由**：[全球经济增长前景不明](/News/827b34d4c4ba051e88ce965f7168adf5)，周期性资产下行风险较大。
+   - **理由**：[全球经济增长前景不明](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，周期性资产下行风险较大。
 
 ### B. 均衡型策略（平衡增长与价值）
 
@@ -198,13 +198,13 @@
 **建议配置**：
 
 1. **超配港股科技龙头**
-   - **理由**：估值处于历史低位，[中国政策托底预期增强](/News/0597d707f4b5f217daa9f4399cd2613f)，南向资金持续流入，具备估值修复空间。重点关注腾讯、阿里巴巴等。
+   - **理由**：估值处于历史低位，[中国政策托底预期增强](https://quantshark.io/News/0597d707f4b5f217daa9f4399cd2613f)，南向资金持续流入，具备估值修复空间。重点关注腾讯、阿里巴巴等。
 
 2. **标配全球半导体设备股**
-   - **理由**：[AI资本开支浪潮的确定性高](/News/51efbf698c5ec907857effe36fe27730)，但[估值已反映部分预期](/News/827b34d4c4ba051e88ce965f7168adf5)，需等待更好买点。关注飞腾、中微公司等。
+   - **理由**：[AI资本开支浪潮的确定性高](https://quantshark.io/News/51efbf698c5ec907857effe36fe27730)，但[估值已反映部分预期](https://quantshark.io/News/827b34d4c4ba051e88ce965f7168adf5)，需等待更好买点。关注飞腾、中微公司等。
 
 3. **超配新能源与储能龙头**
-   - **理由**：政策驱动的刚性需求，[产业化进展加快](/News/47e9d0d2f145c69343ee41f963daad51)。关注宁德时代、赣锋锂电等。
+   - **理由**：政策驱动的刚性需求，[产业化进展加快](https://quantshark.io/News/47e9d0d2f145c69343ee41f963daad51)。关注宁德时代、赣锋锂电等。
 
 ### C. 激进/阿尔法策略（最大化资本增值）
 
@@ -213,16 +213,16 @@
 **建议配置**：
 
 1. **超配AI算力核心基础设施与国产芯片**
-   - **理由**：[AI竞赛白热化](/News/51efbf698c5ec907857effe36fe27730)，[算力需求呈指数级增长](/News/51efbf698c5ec907857effe36fe27730)。[中国国产芯片加速替代](/News/fc7b8634a525ad7d089a85e72c1fd99c)，[华为麒麟9030采用中芯7纳米工艺](/News/2b657602b8f8a87c4b478e059ff75035)。关注飞腾、中芯国际、华为等。
+   - **理由**：[AI竞赛白热化](https://quantshark.io/News/51efbf698c5ec907857effe36fe27730)，[算力需求呈指数级增长](https://quantshark.io/News/51efbf698c5ec907857effe36fe27730)。[中国国产芯片加速替代](https://quantshark.io/News/fc7b8634a525ad7d089a85e72c1fd99c)，[华为麒麟9030采用中芯7纳米工艺](https://quantshark.io/News/2b657602b8f8a87c4b478e059ff75035)。关注飞腾、中芯国际、华为等。
 
 2. **战术性做多铜与新能源金属**
-   - **理由**：[铜价创15年新高](/News/fee574b8d75680164eee993f7477c877)，[绿色转型和电网升级带来的长期结构性需求缺口巨大](/News/fee574b8d75680164eee993f7477c877)。当前价格提供战略建仓机会。
+   - **理由**：[铜价创15年新高](https://quantshark.io/News/fee574b8d75680164eee993f7477c877)，[绿色转型和电网升级带来的长期结构性需求缺口巨大](https://quantshark.io/News/fee574b8d75680164eee993f7477c877)。当前价格提供战略建仓机会。
 
 3. **超配机器人与具身智能**
-   - **理由**：[产业化加速](/News/689789b80a054eb10729f46dcf012cff)，[应用场景拓展](/News/3ef2857428a60c5cdd7d1b5bcdf1d1da)。[广东省人工智能与机器人企业超3700家](/News/32dba4d7f188f998a23ceed4bda820b0)，产业链完整。关注[宇树科技](/News/689789b80a054eb10729f46dcf012cff)、[新时达](/News/3f1d0102bfcedabbf3b4742623a87f26)等。
+   - **理由**：[产业化加速](https://quantshark.io/News/689789b80a054eb10729f46dcf012cff)，[应用场景拓展](https://quantshark.io/News/3ef2857428a60c5cdd7d1b5bcdf1d1da)。[广东省人工智能与机器人企业超3700家](https://quantshark.io/News/32dba4d7f188f998a23ceed4bda820b0)，产业链完整。关注[宇树科技](https://quantshark.io/News/689789b80a054eb10729f46dcf012cff)、[新时达](https://quantshark.io/News/3f1d0102bfcedabbf3b4742623a87f26)等。
 
 4. **战术性做多固态电池与新能源汽车**
-   - **理由**：[固态电池产业化进展加快](/News/47e9d0d2f145c69343ee41f963daad51)，[商业应用前景明朗](/News/47e9d0d2f145c69343ee41f963daad51)。[比亚迪技术下放至10万级车型](/News/82263b99bd9db73783407e6462d3f0be)，产品竞争力提升。关注[卫蓝新能源](/News/fef39cfdb7c565af31569223fe9781d1)、[比亚迪](/News/82263b99bd9db73783407e6462d3f0be)等。
+   - **理由**：[固态电池产业化进展加快](https://quantshark.io/News/47e9d0d2f145c69343ee41f963daad51)，[商业应用前景明朗](https://quantshark.io/News/47e9d0d2f145c69343ee41f963daad51)。[比亚迪技术下放至10万级车型](https://quantshark.io/News/82263b99bd9db73783407e6462d3f0be)，产品竞争力提升。关注[卫蓝新能源](https://quantshark.io/News/fef39cfdb7c565af31569223fe9781d1)、[比亚迪](https://quantshark.io/News/82263b99bd9db73783407e6462d3f0be)等。
 
 ---
 
